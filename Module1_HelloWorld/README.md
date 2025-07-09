@@ -12,3 +12,10 @@
 
 ### Example Output
 
+My name is Alex Rivera
+My favorite number is 17
+
+3. Save your changes and run the program in Codespaces terminal.
+4. Commit and push your changes.
+
+✅ Once you're done, you can check your commit in GitHub.
