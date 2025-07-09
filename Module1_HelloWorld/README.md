@@ -13,6 +13,7 @@
 ### Example Output
 
 My name is Alex Rivera
+
 My favorite number is 17
 
 3. Save your changes and run the program in Codespaces terminal.
