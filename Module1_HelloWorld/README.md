@@ -1,4 +1,4 @@
-# Module 1: Hello World
+# Your first code: Hello World
 
 ## Objective
 - Practice writing, editing, compiling, and running a basic C++ program.
